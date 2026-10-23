@@ -1,0 +1,64 @@
+{
+ "layout": "loft35",
+ "style": "scandi",
+ "furnished": false,
+ "footprint_m": [
+  7.0,
+  5.0
+ ],
+ "floors": 1,
+ "storey_height_m": null,
+ "rooms": [
+  {
+   "name": "Studio",
+   "type": "living",
+   "area_m2": 22.4,
+   "bounds": [
+    0,
+    0,
+    7.0,
+    3.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Sleeping_niche",
+   "type": "bedroom",
+   "area_m2": 6.12,
+   "bounds": [
+    3.6,
+    3.2,
+    7.0,
+    5.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 3.96,
+   "bounds": [
+    0,
+    3.2,
+    2.2,
+    5.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 2.52,
+   "bounds": [
+    2.2,
+    3.2,
+    3.6,
+    5.0
+   ],
+   "floor": 0
+  }
+ ],
+ "placed": [],
+ "total_area_m2": 35.0,
+ "outdoor_area_m2": 0
+}

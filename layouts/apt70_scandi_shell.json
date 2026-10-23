@@ -1,0 +1,101 @@
+{
+ "layout": "apt70",
+ "style": "scandi",
+ "furnished": false,
+ "footprint_m": [
+  10.0,
+  7.0
+ ],
+ "floors": 1,
+ "storey_height_m": null,
+ "rooms": [
+  {
+   "name": "Living_kitchen",
+   "type": "living",
+   "area_m2": 25.2,
+   "bounds": [
+    0,
+    0,
+    6,
+    4.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 16.8,
+   "bounds": [
+    6,
+    0,
+    10.0,
+    4.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 8.4,
+   "bounds": [
+    0,
+    4.2,
+    3,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 5.6,
+   "bounds": [
+    3,
+    4.2,
+    5,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 8.4,
+   "bounds": [
+    5,
+    4.2,
+    8,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Utility",
+   "type": "utility",
+   "area_m2": 5.6,
+   "bounds": [
+    8,
+    4.2,
+    10.0,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Balcony",
+   "type": "terrace",
+   "area_m2": 5.48,
+   "bounds": [
+    0.8,
+    -1.5,
+    4.8,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  }
+ ],
+ "placed": [],
+ "total_area_m2": 70.0,
+ "outdoor_area_m2": 5.48
+}
