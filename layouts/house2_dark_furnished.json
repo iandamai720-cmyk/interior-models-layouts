@@ -1,0 +1,1525 @@
+{
+ "layout": "house2",
+ "style": "dark",
+ "furnished": true,
+ "footprint_m": [
+  10.0,
+  9.0
+ ],
+ "floors": 2,
+ "storey_height_m": 3.0,
+ "rooms": [
+  {
+   "name": "GF_Kitchen_dining",
+   "type": "kitchen",
+   "area_m2": 20,
+   "bounds": [
+    0,
+    0,
+    4,
+    5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Living_room",
+   "type": "living",
+   "area_m2": 30.0,
+   "bounds": [
+    4,
+    0,
+    10.0,
+    5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Utility",
+   "type": "utility",
+   "area_m2": 8.8,
+   "bounds": [
+    0,
+    5,
+    2.2,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_WC",
+   "type": "bathroom",
+   "area_m2": 2.52,
+   "bounds": [
+    2.2,
+    5,
+    3.6,
+    6.8
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Wardrobe",
+   "type": "wardrobe",
+   "area_m2": 3.08,
+   "bounds": [
+    2.2,
+    6.8,
+    3.6,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Hall",
+   "type": "hallway",
+   "area_m2": 25.6,
+   "bounds": [
+    3.6,
+    5,
+    10.0,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Terrace",
+   "type": "terrace",
+   "area_m2": 22.26,
+   "bounds": [
+    3.0,
+    -3.2,
+    10.25,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  },
+  {
+   "name": "FF_Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 20.7,
+   "bounds": [
+    0,
+    0,
+    4.5,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 12.88,
+   "bounds": [
+    4.5,
+    0,
+    7.3,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Kids_room",
+   "type": "kids",
+   "area_m2": 12.42,
+   "bounds": [
+    7.3,
+    0,
+    10.0,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Corridor",
+   "type": "hallway",
+   "area_m2": 5.4,
+   "bounds": [
+    0,
+    4.6,
+    5.4,
+    5.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Office",
+   "type": "office",
+   "area_m2": 8.84,
+   "bounds": [
+    0,
+    5.6,
+    2.6,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Bathroom",
+   "type": "bathroom",
+   "area_m2": 9.52,
+   "bounds": [
+    2.6,
+    5.6,
+    5.4,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Landing",
+   "type": "hallway",
+   "area_m2": 15.99,
+   "bounds": [
+    5.4,
+    4.6,
+    10.0,
+    9.0
+   ],
+   "opening": [
+    5.4,
+    7.95,
+    9.450000000000001,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Balcony",
+   "type": "terrace",
+   "area_m2": 4.12,
+   "bounds": [
+    4.5,
+    -1.6,
+    7.3,
+    -0.13
+   ],
+   "floor": 1,
+   "outdoor": true
+  }
+ ],
+ "placed": [
+  {
+   "key": "kitchen_base_cabinet",
+   "article_number": "50205626",
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 2.2,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "article_number": "50205626",
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 3.4,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "article_number": "50205626",
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 4.0,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "oven_builtin",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.316,
+   "y": 2.8,
+   "z": 0.17,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "dishwasher",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.339,
+   "y": 4.62,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "placeholder_worktop",
+   "room": "GF_Kitchen_dining",
+   "bounds": [
+    0,
+    1.9,
+    0.66,
+    4.93
+   ]
+  },
+  {
+   "key": "ikea_hob",
+   "article_number": "10467093",
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 2.8,
+   "z": 0.795,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "extractor_hood_black",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.262,
+   "y": 2.8,
+   "z": 1.55,
+   "rot_deg": 90,
+   "scale": [
+    0.667,
+    1,
+    1
+   ],
+   "floor": 0
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "article_number": "30205528",
+   "room": "GF_Kitchen_dining",
+   "x": 0.198,
+   "y": 2.2,
+   "z": 1.45,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "article_number": "30205528",
+   "room": "GF_Kitchen_dining",
+   "x": 0.198,
+   "y": 3.4,
+   "z": 1.45,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "article_number": "30205528",
+   "room": "GF_Kitchen_dining",
+   "x": 0.198,
+   "y": 4.0,
+   "z": 1.45,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "article_number": "30205528",
+   "room": "GF_Kitchen_dining",
+   "x": 0.198,
+   "y": 4.6,
+   "z": 1.45,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "microwave_black",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.23,
+   "y": 3.4,
+   "z": 0.845,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "kitchen_sink_steel",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 4.05,
+   "z": 0.54,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "electric_kettle",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.089,
+   "y": 2.12,
+   "z": 0.845,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "coffee_machine_drip",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 0.11,
+   "y": 3.15,
+   "z": 0.845,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "aptitlig_deska_do_krojenia_80233430",
+   "article_number": "80233430",
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 3.75,
+   "z": 0.845,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "ikea_365_garnek_z_pokrywka_90484244",
+   "article_number": "90484244",
+   "room": "GF_Kitchen_dining",
+   "x": 0.31,
+   "y": 2.7,
+   "z": 0.8,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "fridge",
+   "article_number": "30619458",
+   "room": "GF_Kitchen_dining",
+   "x": 3.4,
+   "y": 4.673,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "stornas_sto_rozkadany_40176846",
+   "article_number": "40176846",
+   "room": "GF_Kitchen_dining",
+   "x": 2.3,
+   "y": 1.3,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "skogsta_krzeso_70544866",
+   "article_number": "70544866",
+   "room": "GF_Kitchen_dining",
+   "x": 1.95,
+   "y": 0.6,
+   "z": 0.0,
+   "rot_deg": 180.0,
+   "floor": 0
+  },
+  {
+   "key": "skogsta_krzeso_70544866",
+   "article_number": "70544866",
+   "room": "GF_Kitchen_dining",
+   "x": 1.95,
+   "y": 2.0,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "skogsta_krzeso_70544866",
+   "article_number": "70544866",
+   "room": "GF_Kitchen_dining",
+   "x": 2.65,
+   "y": 0.6,
+   "z": 0.0,
+   "rot_deg": 180.0,
+   "floor": 0
+  },
+  {
+   "key": "skogsta_krzeso_70544866",
+   "article_number": "70544866",
+   "room": "GF_Kitchen_dining",
+   "x": 2.65,
+   "y": 2.0,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "ikea_365_kubek_80278367",
+   "article_number": "80278367",
+   "room": "GF_Kitchen_dining",
+   "x": 2.0,
+   "y": 1.2,
+   "z": 0.74,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "stilren_wazon_10442045",
+   "article_number": "10442045",
+   "room": "GF_Kitchen_dining",
+   "x": 2.4,
+   "y": 1.3,
+   "z": 0.74,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "skurup_lampa_wiszaca_80407114",
+   "article_number": "80407114",
+   "room": "GF_Kitchen_dining",
+   "x": 2.3,
+   "y": 1.3,
+   "z": 1.929,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+   "article_number": "00615249",
+   "room": "GF_Kitchen_dining",
+   "x": 3.7,
+   "y": 0.3,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "article_number": "20569029",
+   "room": "GF_Kitchen_dining",
+   "x": 2.0,
+   "y": 0.156,
+   "z": 0.0,
+   "rot_deg": 180,
+   "scale": [
+    1.0,
+    1.0,
+    0.8509223626685615
+   ],
+   "floor": 0
+  },
+  {
+   "key": "radiator_column",
+   "article_number": null,
+   "room": "GF_Kitchen_dining",
+   "x": 2.0,
+   "y": 0.052,
+   "z": 0.12,
+   "rot_deg": 180,
+   "floor": 0
+  },
+  {
+   "key": "jarnvag_dywan_z_krotkim_wosiem_20595698",
+   "article_number": "20595698",
+   "room": "GF_Living_room",
+   "x": 8.0,
+   "y": 2.4,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "vimle_sofa_narozna_5_osobowa_99399581",
+   "article_number": "99399581",
+   "room": "GF_Living_room",
+   "x": 6.4,
+   "y": 2.4,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "tonstad_stolik_kawowy_10489311",
+   "article_number": "10489311",
+   "room": "GF_Living_room",
+   "x": 8.25,
+   "y": 2.4,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "kenney_books",
+   "article_number": null,
+   "room": "GF_Living_room",
+   "x": 8.2,
+   "y": 2.4,
+   "z": 0.351,
+   "rot_deg": 20,
+   "floor": 0
+  },
+  {
+   "key": "stockholm_2025_awa_tv_z_drzwiami_przesuwnymi_40586508",
+   "article_number": "40586508",
+   "room": "GF_Living_room",
+   "x": 9.774,
+   "y": 2.4,
+   "z": 0.0,
+   "rot_deg": -90,
+   "floor": 0
+  },
+  {
+   "key": "tv_sony_55",
+   "article_number": null,
+   "room": "GF_Living_room",
+   "x": 9.86,
+   "y": 2.4,
+   "z": 0.562,
+   "rot_deg": -90,
+   "floor": 0
+  },
+  {
+   "key": "soundbar",
+   "article_number": null,
+   "room": "GF_Living_room",
+   "x": 9.7,
+   "y": 2.4,
+   "z": 0.562,
+   "rot_deg": -90,
+   "floor": 0
+  },
+  {
+   "key": "strandmon_fotel_uszak_20343224",
+   "article_number": "20343224",
+   "room": "GF_Living_room",
+   "x": 8.6,
+   "y": 4.3,
+   "z": 0.0,
+   "rot_deg": -10.4,
+   "floor": 0
+  },
+  {
+   "key": "barlast_lampa_podogowa_10430368",
+   "article_number": "10430368",
+   "room": "GF_Living_room",
+   "x": 4.5,
+   "y": 0.5,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "billy_rega_50263838",
+   "article_number": "50263838",
+   "room": "GF_Living_room",
+   "x": 6.2,
+   "y": 4.79,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "billy_rega_50263838",
+   "article_number": "50263838",
+   "room": "GF_Living_room",
+   "x": 6.6,
+   "y": 4.79,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00600894",
+   "article_number": "00600894",
+   "room": "GF_Living_room",
+   "x": 7.6,
+   "y": 4.5,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+   "article_number": "00615249",
+   "room": "GF_Living_room",
+   "x": 9.7,
+   "y": 4.6,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "bondis_zegar_scienny_10543092",
+   "article_number": "10543092",
+   "room": "GF_Living_room",
+   "x": 4.092,
+   "y": 4.55,
+   "z": 1.7,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "article_number": "20569029",
+   "room": "GF_Living_room",
+   "x": 8.6,
+   "y": 0.156,
+   "z": 0.0,
+   "rot_deg": 180,
+   "scale": [
+    1.0,
+    1.0,
+    0.8509223626685615
+   ],
+   "floor": 0
+  },
+  {
+   "key": "radiator_column",
+   "article_number": null,
+   "room": "GF_Living_room",
+   "x": 8.6,
+   "y": 0.052,
+   "z": 0.12,
+   "rot_deg": 180,
+   "floor": 0
+  },
+  {
+   "key": "ph_ceiling_fan",
+   "article_number": null,
+   "room": "GF_Living_room",
+   "x": 8.0,
+   "y": 2.4,
+   "z": 2.184,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "bissa_szafka_na_buty_3_przegrody_10530259",
+   "article_number": "10530259",
+   "room": "GF_Hall",
+   "x": 6.6,
+   "y": 5.211,
+   "z": 0.0,
+   "rot_deg": 180,
+   "floor": 0
+  },
+  {
+   "key": "hovet_lustro_70515915",
+   "article_number": "70515915",
+   "room": "GF_Hall",
+   "x": 7.6,
+   "y": 5.1,
+   "z": 0.0,
+   "rot_deg": 180,
+   "floor": 0
+  },
+  {
+   "key": "gullaberg_awka_ze_schowkiem_80573957",
+   "article_number": "80573957",
+   "room": "GF_Hall",
+   "x": 8.8,
+   "y": 5.29,
+   "z": 0.0,
+   "rot_deg": 180,
+   "floor": 0
+  },
+  {
+   "key": "mulig_wieszak_na_ubrania_60179434",
+   "article_number": "60179434",
+   "room": "GF_Hall",
+   "x": 3.9,
+   "y": 6.9,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "lohals_dywan_tkany_na_pasko_30511288",
+   "article_number": "30511288",
+   "room": "GF_Hall",
+   "x": 4.7,
+   "y": 7.0,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "kenney_plant_small2",
+   "article_number": null,
+   "room": "GF_Hall",
+   "x": 9.75,
+   "y": 7.6,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "ph_modern_ceiling_lamp_01",
+   "article_number": null,
+   "room": "GF_Hall",
+   "x": 7.0,
+   "y": 6.5,
+   "z": 1.748,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "washing_machine",
+   "article_number": null,
+   "room": "GF_Utility",
+   "x": 0.289,
+   "y": 8.35,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "dryer",
+   "article_number": null,
+   "room": "GF_Utility",
+   "x": 0.347,
+   "y": 8.35,
+   "z": 0.855,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "hyllis_rega_00278578",
+   "article_number": "00278578",
+   "room": "GF_Utility",
+   "x": 1.6,
+   "y": 8.851,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "danka_deska_do_prasowania_20471612",
+   "article_number": "20471612",
+   "room": "GF_Utility",
+   "x": 1.904,
+   "y": 7.0,
+   "z": 0.0,
+   "rot_deg": -90,
+   "floor": 0
+  },
+  {
+   "key": "branas_kosz_na_bielizne_20214731",
+   "article_number": "20214731",
+   "room": "GF_Utility",
+   "x": 0.35,
+   "y": 5.4,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "jall_suszarka_na_pranie_80242892",
+   "article_number": "80242892",
+   "room": "GF_Utility",
+   "x": 0.5,
+   "y": 6.4,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "stick_vacuum",
+   "article_number": null,
+   "room": "GF_Utility",
+   "x": 1.95,
+   "y": 5.35,
+   "z": 0.0,
+   "rot_deg": 180,
+   "floor": 0
+  },
+  {
+   "key": "toilet",
+   "article_number": null,
+   "room": "GF_WC",
+   "x": 2.9,
+   "y": 6.412,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "ikea_basin",
+   "article_number": "99543828",
+   "room": "GF_WC",
+   "x": 2.516,
+   "y": 5.55,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "larbro_lustro_40601778",
+   "article_number": "40601778",
+   "room": "GF_WC",
+   "x": 2.273,
+   "y": 5.55,
+   "z": 1.25,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "pax_flisberget_szafa_39304128",
+   "article_number": "39304128",
+   "room": "GF_Wardrobe",
+   "x": 2.571,
+   "y": 7.9,
+   "z": 0.0,
+   "rot_deg": 90,
+   "scale": [
+    0.9,
+    1,
+    1
+   ],
+   "floor": 0
+  },
+  {
+   "key": "jarnvag_dywan_z_krotkim_wosiem_20595698",
+   "article_number": "20595698",
+   "room": "FF_Master_bedroom",
+   "x": 2.3,
+   "y": 2.6,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "idanas_rama_ozka_40458898",
+   "article_number": "40458898",
+   "room": "FF_Master_bedroom",
+   "x": 1.044,
+   "y": 2.6,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "hemnes_komoda_2_szuflady_80242627",
+   "article_number": "80242627",
+   "room": "FF_Master_bedroom",
+   "x": 0.204,
+   "y": 1.437,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "arstid_lampa_stoowa_30321373",
+   "article_number": "30321373",
+   "room": "FF_Master_bedroom",
+   "x": 0.286,
+   "y": 1.437,
+   "z": 3.66,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "hemnes_komoda_2_szuflady_80242627",
+   "article_number": "80242627",
+   "room": "FF_Master_bedroom",
+   "x": 0.204,
+   "y": 3.763,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "arstid_lampa_stoowa_30321373",
+   "article_number": "30321373",
+   "room": "FF_Master_bedroom",
+   "x": 0.286,
+   "y": 3.763,
+   "z": 3.66,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "pax_forsand_szafa_49494335",
+   "article_number": "49494335",
+   "room": "FF_Master_bedroom",
+   "x": 1.75,
+   "y": 4.231,
+   "z": 3.0,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "storklinta_komoda_6_szuflad_70627550",
+   "article_number": "70627550",
+   "room": "FF_Master_bedroom",
+   "x": 4.182,
+   "y": 1.4,
+   "z": 3.0,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "rodalm_ramka_70548925",
+   "article_number": "70548925",
+   "room": "FF_Master_bedroom",
+   "x": 4.419,
+   "y": 3.2,
+   "z": 4.3,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+   "article_number": "00615249",
+   "room": "FF_Master_bedroom",
+   "x": 4.2,
+   "y": 0.3,
+   "z": 3.0,
+   "rot_deg": 0.0,
+   "floor": 1
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "article_number": "20569029",
+   "room": "FF_Master_bedroom",
+   "x": 2.2,
+   "y": 0.156,
+   "z": 3.0,
+   "rot_deg": 180,
+   "scale": [
+    1.0,
+    1.0,
+    0.8509223626685615
+   ],
+   "floor": 1
+  },
+  {
+   "key": "radiator_column",
+   "article_number": null,
+   "room": "FF_Master_bedroom",
+   "x": 2.2,
+   "y": 0.052,
+   "z": 3.12,
+   "rot_deg": 180,
+   "floor": 1
+  },
+  {
+   "key": "ikea_ceiling_lamp",
+   "article_number": "40472031",
+   "room": "FF_Master_bedroom",
+   "x": 2.6,
+   "y": 2.6,
+   "z": 5.499,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "tarva_rama_ozka_29553972",
+   "article_number": "29553972",
+   "room": "FF_Bedroom_2",
+   "x": 5.615,
+   "y": 2.8,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "gullaberg_stolik_nocny_20561740",
+   "article_number": "20561740",
+   "room": "FF_Bedroom_2",
+   "x": 4.788,
+   "y": 1.65,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "brimnes_szafa_2_drzwi_40400478",
+   "article_number": "40400478",
+   "room": "FF_Bedroom_2",
+   "x": 6.959,
+   "y": 3.6,
+   "z": 3.0,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "oskarshamn_fotel_uszak_20523611",
+   "article_number": "20523611",
+   "room": "FF_Bedroom_2",
+   "x": 6.8,
+   "y": 1.45,
+   "z": 3.0,
+   "rot_deg": -120,
+   "floor": 1
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "article_number": "20569029",
+   "room": "FF_Bedroom_2",
+   "x": 5.9,
+   "y": 0.156,
+   "z": 3.0,
+   "rot_deg": 180,
+   "scale": [
+    1.0,
+    1.0,
+    0.8509223626685615
+   ],
+   "floor": 1
+  },
+  {
+   "key": "pendant_lamp",
+   "article_number": "50531742",
+   "room": "FF_Bedroom_2",
+   "x": 5.9,
+   "y": 2.4,
+   "z": 4.63,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "kenney_rug_round",
+   "article_number": null,
+   "room": "FF_Kids_room",
+   "x": 8.4,
+   "y": 2.3,
+   "z": 3.0,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "mydal_rama_ozka_pietrowego_00102452",
+   "article_number": "00102452",
+   "room": "FF_Kids_room",
+   "x": 9.488,
+   "y": 3.45,
+   "z": 3.0,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "trofast_rega_z_pojemnikami_39574865",
+   "article_number": "39574865",
+   "room": "FF_Kids_room",
+   "x": 7.59,
+   "y": 3.7,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "piplarka_biurko_20579943",
+   "article_number": "20579943",
+   "room": "FF_Kids_room",
+   "x": 7.685,
+   "y": 1.3,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "ingolf_krzeso_dzieciece_60353838",
+   "article_number": "60353838",
+   "room": "FF_Kids_room",
+   "x": 8.25,
+   "y": 1.3,
+   "z": 3.0,
+   "rot_deg": -90.0,
+   "floor": 1
+  },
+  {
+   "key": "mala_sztaluga_30488966",
+   "article_number": "30488966",
+   "room": "FF_Kids_room",
+   "x": 9.4,
+   "y": 0.6,
+   "z": 3.0,
+   "rot_deg": -150,
+   "floor": 1
+  },
+  {
+   "key": "djungelskog_pluszak_00402808",
+   "article_number": "00402808",
+   "room": "FF_Kids_room",
+   "x": 8.0,
+   "y": 3.1,
+   "z": 3.0,
+   "rot_deg": 30,
+   "floor": 1
+  },
+  {
+   "key": "lillabo_garaz_z_samochodem_i_helikopterem_80589350",
+   "article_number": "80589350",
+   "room": "FF_Kids_room",
+   "x": 8.7,
+   "y": 2.0,
+   "z": 3.0,
+   "rot_deg": 10,
+   "floor": 1
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "article_number": "20569029",
+   "room": "FF_Kids_room",
+   "x": 8.65,
+   "y": 0.156,
+   "z": 3.0,
+   "rot_deg": 180,
+   "scale": [
+    1.0,
+    1.0,
+    0.8509223626685615
+   ],
+   "floor": 1
+  },
+  {
+   "key": "ikea_ceiling_lamp",
+   "article_number": "40472031",
+   "room": "FF_Kids_room",
+   "x": 8.65,
+   "y": 2.3,
+   "z": 5.499,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "lagkapten_alex_biurko_09521604",
+   "article_number": "09521604",
+   "room": "FF_Office",
+   "x": 0.31,
+   "y": 8.1,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "markus_krzeso_biurowe_30588800",
+   "article_number": "30588800",
+   "room": "FF_Office",
+   "x": 1.05,
+   "y": 8.1,
+   "z": 3.0,
+   "rot_deg": -90.0,
+   "floor": 1
+  },
+  {
+   "key": "monitor_27",
+   "article_number": null,
+   "room": "FF_Office",
+   "x": 0.16,
+   "y": 8.1,
+   "z": 3.734,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "keyboard",
+   "article_number": null,
+   "room": "FF_Office",
+   "x": 0.42,
+   "y": 8.1,
+   "z": 3.734,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "skurup_lampa_biurkowa_80516778",
+   "article_number": "80516778",
+   "room": "FF_Office",
+   "x": 0.2,
+   "y": 8.65,
+   "z": 3.734,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "billy_rega_50263838",
+   "article_number": "50263838",
+   "room": "FF_Office",
+   "x": 0.25,
+   "y": 5.81,
+   "z": 3.0,
+   "rot_deg": 180,
+   "floor": 1
+  },
+  {
+   "key": "billy_rega_50263838",
+   "article_number": "50263838",
+   "room": "FF_Office",
+   "x": 2.35,
+   "y": 5.81,
+   "z": 3.0,
+   "rot_deg": 180,
+   "floor": 1
+  },
+  {
+   "key": "ph_book_encyclopedia_set_01",
+   "article_number": null,
+   "room": "FF_Office",
+   "x": 0.25,
+   "y": 5.8,
+   "z": 5.049,
+   "rot_deg": 180,
+   "scale": [
+    0.7,
+    1,
+    1
+   ],
+   "floor": 1
+  },
+  {
+   "key": "helmer_komoda_na_kokach_70625023",
+   "article_number": "70625023",
+   "room": "FF_Office",
+   "x": 2.311,
+   "y": 6.3,
+   "z": 3.0,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "ikea_ceiling_lamp",
+   "article_number": "40472031",
+   "room": "FF_Office",
+   "x": 1.3,
+   "y": 7.3,
+   "z": 5.499,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "bathtub_freestanding",
+   "article_number": null,
+   "room": "FF_Bathroom",
+   "x": 4.4,
+   "y": 8.4,
+   "z": 3.0,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "tannforsen_szafka_umywalkowa_z_szufladami_30535114",
+   "article_number": "30535114",
+   "room": "FF_Bathroom",
+   "x": 2.985,
+   "y": 7.0,
+   "z": 3.38,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "faxalven_lustro_z_wbudowanym_oswietleniem_29516705",
+   "article_number": "29516705",
+   "room": "FF_Bathroom",
+   "x": 2.733,
+   "y": 7.0,
+   "z": 4.3,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "toilet",
+   "article_number": null,
+   "room": "FF_Bathroom",
+   "x": 5.012,
+   "y": 6.3,
+   "z": 3.0,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "towel_radiator",
+   "article_number": null,
+   "room": "FF_Bathroom",
+   "x": 5.255,
+   "y": 7.3,
+   "z": 3.3,
+   "rot_deg": -90,
+   "floor": 1
+  },
+  {
+   "key": "angsjon_szafka_wysoka_drzwi_40535081",
+   "article_number": "40535081",
+   "room": "FF_Bathroom",
+   "x": 3.0,
+   "y": 5.845,
+   "z": 3.0,
+   "rot_deg": 180,
+   "floor": 1
+  },
+  {
+   "key": "kenney_plant_small1",
+   "article_number": null,
+   "room": "FF_Bathroom",
+   "x": 5.2,
+   "y": 7.7,
+   "z": 3.0,
+   "rot_deg": 0.0,
+   "floor": 1
+  },
+  {
+   "key": "kallax_rega_80275887",
+   "article_number": "80275887",
+   "room": "FF_Landing",
+   "x": 5.67,
+   "y": 6.6,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "oskarshamn_fotel_uszak_20523611",
+   "article_number": "20523611",
+   "room": "FF_Landing",
+   "x": 9.35,
+   "y": 6.3,
+   "z": 3.0,
+   "rot_deg": -90.0,
+   "floor": 1
+  },
+  {
+   "key": "barlast_lampa_podogowa_10430368",
+   "article_number": "10430368",
+   "room": "FF_Landing",
+   "x": 9.7,
+   "y": 5.3,
+   "z": 3.0,
+   "rot_deg": 0.0,
+   "floor": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+   "article_number": "00615249",
+   "room": "FF_Landing",
+   "x": 5.65,
+   "y": 7.6,
+   "z": 3.0,
+   "rot_deg": 0.0,
+   "floor": 1
+  },
+  {
+   "key": "lohals_dywan_tkany_na_pasko_30511288",
+   "article_number": "30511288",
+   "room": "FF_Landing",
+   "x": 7.6,
+   "y": 6.2,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "ph_modern_ceiling_lamp_01",
+   "article_number": null,
+   "room": "FF_Landing",
+   "x": 7.6,
+   "y": 6.3,
+   "z": 4.748,
+   "rot_deg": 0,
+   "floor": 1
+  },
+  {
+   "key": "tarno_sto_2_krzesa_na_zewnatrz_69898415",
+   "article_number": "69898415",
+   "room": "FF_Balcony",
+   "x": 5.9,
+   "y": -0.85,
+   "z": 3.0,
+   "rot_deg": 90,
+   "floor": 1
+  },
+  {
+   "key": "kenney_plant_small3",
+   "article_number": null,
+   "room": "FF_Balcony",
+   "x": 7.0,
+   "y": -1.35,
+   "z": 3.0,
+   "rot_deg": 0.0,
+   "floor": 1
+  },
+  {
+   "key": "segeron_sto_ogrodowy_10510812",
+   "article_number": "10510812",
+   "room": "GF_Terrace",
+   "x": 8.3,
+   "y": -1.6,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "torparo_krzeso_z_podokietnikami_ogr_60595408",
+   "article_number": "60595408",
+   "room": "GF_Terrace",
+   "x": 7.75,
+   "y": -2.45,
+   "z": 0.0,
+   "rot_deg": 180.0,
+   "floor": 0
+  },
+  {
+   "key": "torparo_krzeso_z_podokietnikami_ogr_60595408",
+   "article_number": "60595408",
+   "room": "GF_Terrace",
+   "x": 7.75,
+   "y": -0.75,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "torparo_krzeso_z_podokietnikami_ogr_60595408",
+   "article_number": "60595408",
+   "room": "GF_Terrace",
+   "x": 8.85,
+   "y": -2.45,
+   "z": 0.0,
+   "rot_deg": 180.0,
+   "floor": 0
+  },
+  {
+   "key": "torparo_krzeso_z_podokietnikami_ogr_60595408",
+   "article_number": "60595408",
+   "room": "GF_Terrace",
+   "x": 8.85,
+   "y": -0.75,
+   "z": 0.0,
+   "rot_deg": 0.0,
+   "floor": 0
+  },
+  {
+   "key": "tveto_parasol_80468857",
+   "article_number": "80468857",
+   "room": "GF_Terrace",
+   "x": 8.3,
+   "y": -1.6,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "segeron_lezak_79494857",
+   "article_number": "79494857",
+   "room": "GF_Terrace",
+   "x": 3.7,
+   "y": -1.7,
+   "z": 0.0,
+   "rot_deg": 0,
+   "floor": 0
+  },
+  {
+   "key": "ph_planter_box_01",
+   "article_number": null,
+   "room": "GF_Terrace",
+   "x": 9.7,
+   "y": -0.5,
+   "z": 0.0,
+   "rot_deg": 90,
+   "floor": 0
+  },
+  {
+   "key": "ph_garden_gnome",
+   "article_number": null,
+   "room": "GF_Terrace",
+   "x": 9.8,
+   "y": -2.9,
+   "z": 0.0,
+   "rot_deg": -150,
+   "floor": 0
+  }
+ ],
+ "total_area_m2": 175.75,
+ "outdoor_area_m2": 26.38
+}
